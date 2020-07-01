@@ -1,0 +1,10 @@
+
+body{
+      background-image: url(".jpg");
+      background-repeat: no-repeat, repeat;
+      background-color: #545454;
+      -webkit-font-smoothing: antialiased;
+}
+h1{
+  color: blue;
+}
